@@ -1,0 +1,20 @@
+{
+    "discordInviteLink": "",
+    "team": [
+        {
+            "name": "Josuexs",
+            "role": "Desarrollador",
+            "avatar": "https://github.com/josuexs1.png",
+            "github": "https://github.com/josuexs1"
+        }
+    ],
+    "changelog": [
+        {
+            "version": "v1.0.0",
+            "date": "2026-10-14",
+            "changes": [
+                "Versión inicial de ApexPro"
+            ]
+        }
+    ]
+}
