@@ -1,20 +1,22 @@
 {
-    "link_discord_invite": "",
+    "discordInviteLink": "",
     "team": [
         {
-            "name": "Josuexs",
-            "role": "Desarrollador",
-            "avatar": "https://github.com/josuexs1.png",
-            "github": "https://github.com/josuexs1"
+            "user_username": "Josuexs",
+            "user_img": "https://github.com/josuexs1.png",
+            "description": "Desarrollador de ApexPro",
+            "is_core_team": true,
+            "is_active": true
         }
     ],
+    "archived_team": [],
     "changelog": [
         {
-            "version": "v1.0.0",
-            "date": "2026-10-14",
-            "changes": [
-                "Versión inicial de ApexPro"
-            ]
+            "title": "ApexPro v1.0.0",
+            "description": "Versión inicial de ApexPro.",
+            "releaseDate": 1760400000000,
+            "isBeta": false,
+            "isTitled": true
         }
     ]
 }
